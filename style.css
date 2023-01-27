@@ -68,7 +68,6 @@
   .col-md-12 {
     width: 100%;
     float: left;
-    text-size-adjust: 50%;
-    font-weight: lighter;
+    text-size-adjust: 200%;
   }
 }
