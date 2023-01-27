@@ -68,6 +68,6 @@
   .col-md-12 {
     width: 100%;
     float: left;
-    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
   }
 }
