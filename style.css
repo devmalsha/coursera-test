@@ -46,7 +46,7 @@
   background-color: rgb(201, 185, 119);
   width: fit-content;
 }
-p {
+.p {
   padding: 15px;
   font-weight: bold;
 }
@@ -68,5 +68,6 @@ p {
   .col-md-12 {
     width: 100%;
     float: left;
+    text-size-adjust: none;
   }
 }
